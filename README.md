@@ -1,2 +1,3 @@
 # tech
+author
 khadeejah
