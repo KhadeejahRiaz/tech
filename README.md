@@ -1,3 +1,3 @@
 # tech
 author
-khadeejah
+khadeejah (life)
